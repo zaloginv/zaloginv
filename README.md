@@ -2,7 +2,6 @@
 
 ### My contacts:
 
-[![VK](https://img.shields.io/badge/VK-005AF0?style=for-the-badge&logoColor=white)](https://vk.com/zaloginv)
 [![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zaloginv)
 [![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaloginvd@gmail.com)
 
