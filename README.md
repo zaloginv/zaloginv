@@ -23,7 +23,7 @@ I like to improve in my chosen field. I have experience working in a team, I am 
 
 ---
 
-## Stack i use:
+## Languages and tools:
 
 <div>
   <img src="https://github.com/devicons/devicon/blob/master/icons/python/python-original.svg" title="Python" **alt="Git" width="40" height="40"/>&nbsp;
