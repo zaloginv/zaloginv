@@ -1,8 +1,16 @@
 ## Hello there, my name is Zalogin Vladislav!
 
-[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](vk.com)
+### My contacts:
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaloginv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+[![VK](https://img.shields.io/badge/VK-005AF0?style=for-the-badge&logoColor=white)](https://vk.com/zaloginv)
+[![Telegram](https://img.shields.io/badge/Telegram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)](https://t.me/zaloginv)
+[![Gmail](https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:zaloginvd@gmail.com)
+
+---
+
+### Some quick info:
+  
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaloginv&layout=donut&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
 ---
 
@@ -50,7 +58,7 @@ I like to improve in my chosen field. I have experience working in a team, I am 
 [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaloginv&theme=dark&background=000000)](https://git.io/streak-stats)
 
 
-![](https://komarev.com/ghpvc/?style=for-the-badge&username=zaloginv)
+![](https://komarev.com/ghpvc/?style=for-the-badge&color=lightgrey&username=zaloginv)
 
 <!---
 zaloginv/zaloginv is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
