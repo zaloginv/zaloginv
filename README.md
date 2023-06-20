@@ -1,6 +1,6 @@
 ## Hello there, my name is Zalogin Vladislav!
 
-<a href="vk.com">![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)</a>
+[![GitLab](https://img.shields.io/badge/gitlab-%23181717.svg?style=for-the-badge&logo=gitlab&logoColor=white)](vk.com)
 
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=zaloginv&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
 
