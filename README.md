@@ -15,9 +15,7 @@ By graduation, I had already mastered "Introducing Python, Modern Computing in S
 
 I like to improve in my chosen field. I have experience working in a team, I am respectful to its members, I take deadlines seriously. I can competently distribute time resources between tasks, I use time trackers. Appreciate support and constructive criticism.
 
-Stack: Python, Django, DRF, Git, Github, JS, Node.JS, Golang, HTML, CSS, SQL, PostgreSQL, Postman
-
-Translated with www.DeepL.com/Translator (free version)
+***Stack***: **Python, Django, DRF, Git, Github, JS, Node.JS, Golang, HTML, CSS, SQL, PostgreSQL, Postman**
 
 
 <!---Для компактной версии-->
