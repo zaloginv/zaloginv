@@ -22,16 +22,20 @@ Since childhood I have been fascinated by the field of IT. If at a preschool age
 
 I entered the Information Security, where I became acquainted with several programming languages, including C++ and SQL (topic of my bachelor's thesis: "Development of SQL-attack protection methods").
 
-As part of my studies, I was also involved in:
-- installing and working with virtual machines on Hyper-V and Virtual Box to administer Linux and Windows (undergraduate diploma work used XAMPP with Apache on Win 10; separately in one course required WSL to work with openssl)
-- setting up DLP systems;
+As part of his studies, he was also involved in:
+- installing and administering Linux and Windows;
+- setting up virtual machines;
+- administering the DLP system;
+- connecting and configuring Apache web servers on XAMPP;
+- generating self-signed certificates with openssl;
 - backend in JS (Express).
+- layout in HTML + CSS + JS.
 
-By the time of entering graduate school I have chosen for myself the main programming language, which seemed to me easy to learn, but at the same time deep and extensible in its application to different tasks - Python. I began to use it practically in all disciplines of the course, I was helped by my supervisor, who was programming in Python more than 10 years (mathematical, graphing, modeling Word + Excel routines and modeling of some social processes were among my tasks). With the help of the same language I wrote my dissertation "Active Web Server Auditing" - IPS development in Python.
+By the moment of entering magistracy I've chosen Python, the main programming language, which seemed to me easy to learn and at the same time deep and extensible in its application to different tasks. I have started to use it practically in all disciplines of the course, I was helped by my scientific advisor, who has been programming in Python for more than 10 years (my tasks were both mathematical, like building charts, and modeling (Word, Excel), optimizing routine tasks and modeling some social processes). In Python I wrote the practical part of my thesis on the subject: "Active Web-server Audit" - IPS development.
 
-By graduation, I had already mastered "Introducing Python, Modern Computing in Simple Packages, Lubanovic B." and studied various videos, took courses which, although they did not give me new knowledge on the basics, but helped me learn to comply with PEP8, work with PyCharm more intelligently, as well as normally interact with Git systems. And, naturally, that's when I already started writing projects.
+While getting my diploma with honours, I had already mastered several books on Python about programming and algorithmization (Bill Lubanovich, Antonio Mele, William S. Vincent, Tim Rafgarden, etc.), as well as a couple of courses that, while not giving new knowledge on the basics, helped me learn to respect PEP8, work with PyCharm more intelligently, and interact with Git systems properly. That's when I already started coding projects.
 
-I like to improve in my chosen field. I have experience working in a team, I am respectful to its members, I take deadlines seriously. I can competently distribute time resources between tasks, I use time trackers. Appreciate support and constructive criticism.
+I like to improve in my chosen field. I have experience working in a team, I am respectful to its members, take deadlines seriously. I can competently distribute time resources between tasks, use time trackers. I appreciate support and constructive criticism.
 
 ---
 
