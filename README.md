@@ -70,8 +70,10 @@ https://home.aveek.io/GitHub-Profile-Badges/
 ### Some stats:
 
 
-![GitHub Streak](https://streak-stats.demolab.com?user=zaloginv)
-
+<!---
+[![GitHub Streak](https://streak-stats.demolab.com/?user=DenverCoder1)](https://git.io/streak-stats)
+--->
+[![GitHub Streak](https://streak-stats.demolab.com/?user=zaloginv)](https://git.io/streak-stats)
 
 ![Codewars](https://www.codewars.com/users/zaloginv/badges/large)
 
