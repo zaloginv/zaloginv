@@ -69,7 +69,7 @@ https://home.aveek.io/GitHub-Profile-Badges/
 
 ### Some stats:
 
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=zaloginv&ring=7554545E&fire=EB5454&currStreakLabel=EB5454)](https://git.io/streak-stats)
+[![GitHub Streak](https://streak-stats.demolab.com?user=zaloginv&mode=weekly&ring=FFAC00&currStreakLabel=FFAC00)](https://git.io/streak-stats)
 
 ![Codewars](https://www.codewars.com/users/zaloginv/badges/large)
 
