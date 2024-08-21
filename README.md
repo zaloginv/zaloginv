@@ -18,24 +18,7 @@
 
 ### About me:
 
-Since childhood I have been fascinated by the field of IT. If at a preschool age it was video games, then later it was attempts at animation and creation of simple games in Flash. Then on various courses I practiced writing programs in Delphi, Pascal. Did a simple mods for the games (texture substitution and translation of other mods, scripts). Tried to create pages of websites in HTML + CSS + JS. So, when I went to college I knew for sure, that my professional field will be related to programming. Solving complex problems and finding the best solutions was a pleasure.
-
-I entered the Information Security, where I became acquainted with several programming languages, including C++ and SQL (topic of my bachelor's thesis: "Development of SQL-attack protection methods").
-
-As part of his studies, he was also involved in:
-- installing and administering Linux and Windows;
-- setting up virtual machines;
-- administering the DLP system;
-- connecting and configuring Apache web servers on XAMPP;
-- generating self-signed certificates with openssl;
-- backend in JS (Express).
-- layout in HTML + CSS + JS.
-
-By the moment of entering magistracy I've chosen Python, the main programming language, which seemed to me easy to learn and at the same time deep and extensible in its application to different tasks. I have started to use it practically in all disciplines of the course, I was helped by my scientific advisor, who has been programming in Python for more than 10 years (my tasks were both mathematical, like building charts, and modeling (Word, Excel), optimizing routine tasks and modeling some social processes). In Python I wrote the practical part of my thesis on the subject: "Active Web-server Audit" - IPS development.
-
-While getting my diploma with honours, I had already mastered several books on Python about programming and algorithmization (Bill Lubanovich, Antonio Mele, William S. Vincent, Tim Rafgarden, etc.), as well as a couple of courses that, while not giving new knowledge on the basics, helped me learn to respect PEP8, work with PyCharm more intelligently, and interact with Git systems properly. That's when I already started coding projects.
-
-I like to improve in my chosen field. I have experience working in a team, I am respectful to its members, take deadlines seriously. I can competently distribute time resources between tasks, use time trackers. I appreciate support and constructive criticism.
+Master's degree in Information Security, but my heart belongs to Development. I specialize in backend (mostly, especially for work, Python, but I also in love with Golang), but I'm expand my knowledges in all areas I can spare free time - data engineering, devops, etc.
 
 ---
 
